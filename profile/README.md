@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" alt="OIPF — Operational Intelligence Packaging Format" width="460">
+</p>
+
 # OIPFormat
 
 ### Operational Intelligence Packaging Format (OIPF)
